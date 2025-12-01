@@ -1,5 +1,3 @@
-cat > README.md << EOF
-
 # Rock Records Application
 
 A C application that collects user data and sends it to a PHP backend for storage and visualization.
