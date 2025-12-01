@@ -4,19 +4,19 @@ A C application that collects user data and sends it to a PHP backend for storag
 
 ## Components
 
-- C program (main.c, send_data.c, appdev.h)
-- PHP backend (test.php)
-- Chart visualization (chart.html)
+- C program (main.c, get_data.c, appdev.h)
+- PHP backend (psot.php)
+- Chart visualization (post.html)
 
 ## Build
 
-\`\`\`bash
-gcc -o app main.c send_data.c -lcurl
+\`\`\`
+gcc -o app main.c get_data.c -lcurl
 \`\`\`
 
 ## Run
 
-\`\`\`bash
+\`\`\`
 ./app
 \`\`\`
 EOF
