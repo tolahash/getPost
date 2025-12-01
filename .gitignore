@@ -1,0 +1,57 @@
+# Compiled files
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+app
+rockapp
+
+# Record data (optional - remove if you want to track it)
+record.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Dependencies
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+vgcore.*
