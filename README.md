@@ -19,4 +19,3 @@ gcc -o app main.c get_data.c -lcurl
 \`\`\`
 ./app
 \`\`\`
-EOF
